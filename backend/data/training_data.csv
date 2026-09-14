@@ -1,0 +1,13 @@
+Class,WMC,CBO,DIT,NOC,RFC,LCOM,Code Smells,Vulnerabilities,Bugs,Major Issues,Minor Issues,Blocker Issues,refactoring_priority
+BalanceEnquriy,2.0,2.0,2.0,0.0,35.0,1.0,0,2,0,1,1,0,LOW
+Com,0.0,2.0,1.0,0.0,3.0,0.0,0,2,0,0,1,1,MEDIUM
+Deposit,2.0,2.0,2.0,0.0,41.0,1.0,2,2,0,1,2,0,LOW
+FastCash,2.0,1.0,2.0,0.0,70.0,1.0,2,3,0,2,2,0,MEDIUM
+login,2.0,4.0,2.0,0.0,71.0,1.0,4,2,0,1,4,0,LOW
+main_class,2.0,1.0,2.0,0.0,64.0,1.0,2,0,0,0,2,0,LOW
+Mini,2.0,1.0,2.0,0.0,46.0,1.0,1,4,0,2,2,0,HIGH
+Pin,2.0,2.0,2.0,0.0,61.0,1.0,6,3,0,5,2,0,HIGH
+signup,2.0,5.0,2.0,0.0,130.0,1.0,6,2,0,1,5,0,MEDIUM
+Signup2,2.0,4.0,2.0,0.0,119.0,1.0,13,2,0,1,10,0,MEDIUM
+Signup3,2.0,3.0,2.0,0.0,136.0,1.0,7,3,2,4,4,0,HIGH
+withdrawl,2.0,2.0,2.0,0.0,54.0,1.0,5,2,0,3,2,0,HIGH

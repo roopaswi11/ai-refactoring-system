@@ -1,0 +1,13 @@
+Class,WMC,CBO,DIT,NOC,RFC,LCOM
+Book,5,0,1,0,5,6
+FineCalculator,1,0,1,0,1,0
+LegacyCatalog,3,1,1,0,15,0
+Library,6,2,1,0,12,3
+LibraryService,3,1,1,0,23,0
+Main,1,0,1,0,6,0
+Member,5,1,1,0,7,0
+MemberReport,1,0,1,0,19,0
+NotificationService,3,0,1,0,11,3
+ReportService,1,0,1,0,13,0
+SearchService,1,1,1,0,11,0
+ValidationUtil,3,0,1,0,7,3
